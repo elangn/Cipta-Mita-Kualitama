@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Miniver&display=swap");
+
+.coba {
+  background-image: url(./assets/building.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home {
+  background-image: url("./assets/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about {
+  background-image: url("./assets/bg2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.choose {
+  background-image: url("./assets/bg3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.provide {
+  background-image: url("./assets/bg4-2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 100%;
+}
+.provide2 {
+  background-image: url("./assets/bg4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 100%;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
